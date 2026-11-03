@@ -1,5 +1,5 @@
 # nexus-secure-banking
-https://share.gemini.google/UJSA1uQpx7Tu
+https://hossain503504-hub.github.io/nexus-secure-banking/
 # 🏦 Nexus Banking System — Core Enterprise Engine
 
 > **The World's Most Advanced 100% Cashless Core Banking Infrastructure**  
